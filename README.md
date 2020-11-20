@@ -29,7 +29,7 @@ pipenv run flake8
 Tópicos a serem abordados 18/11/20:
  1. Git(novembro/20)
  2. Virtualenv(novembro/20)
- 3. Pip
+ 3. Pip(novembro/20)
  4. Mock
  5. Pipenv
  
