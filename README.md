@@ -26,9 +26,9 @@ Para conferir qualidade de código:
 pipenv run flake8
 ```
 
-Tópicos a serem abordados:
- 1. Git
- 2. Virtualenv
+Tópicos a serem abordados 18/11/20:
+ 1. Git(novembro/20)
+ 2. Virtualenv(novembro/20)
  3. Pip
  4. Mock
  5. Pipenv
